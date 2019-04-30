@@ -1,5 +1,5 @@
 .main-content{width: 1080px;    display: inline-block;    height: 1782px;
-  background-image: url('../images/background.png');background-position-y: -260px;border: none}
+  background-image: url('../images/background.png');background-position-y: -260px;border: none;    margin-top: 0;}
 .img-home {position: absolute;
       top: 20px;
     right: 20px;
